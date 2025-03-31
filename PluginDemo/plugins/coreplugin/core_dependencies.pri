@@ -1,0 +1,1 @@
+QTC_PLUGIN_NAME = Core
